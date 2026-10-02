@@ -1,4 +1,4 @@
-< ?php
+<?php
 $pageTitle = 'Profil - Telkom University';
 require 'includes/header.php';
 ?>
@@ -19,4 +19,4 @@ require 'includes/header.php';
             </div>
         </div>
     </section>
-< ?php require 'includes/footer.php'; ?>
+<?php require 'includes/footer.php'; ?>
